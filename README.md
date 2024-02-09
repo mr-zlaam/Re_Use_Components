@@ -8,6 +8,24 @@
 <br>
 <br>
 
+## Usage
+
+```
+  // You have all the properties on this button which native button already have
+import { Button } from "./ReuseableComponents/Button/Button";
+
+export default function App() {
+  return (
+    <>
+      <Button varient="primary" size="md" className="text-gray-500">
+      Click me<
+      /Button>
+    </>
+  );
+}
+
+```
+
 # Important Note:
 
 " If you have good understanding of NextJS or React Js you can contribute in this project by adding more features, fixing bugs or improving code quality."
