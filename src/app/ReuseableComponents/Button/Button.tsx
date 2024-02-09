@@ -10,7 +10,7 @@ interface ButtonProps extends React.ButtonHTMLAttributes<HTMLButtonElement> {
 const ButtonVarients = {
   Varients: {
     default:
-      "bg-[#28282b] text-white text-[1.2rem] font-semibold text-black px-5 py-2 rounded-md shadow-black shadow-md duration-200 hover:bg-[#28282b]/60 active:scale-95",
+      "bg-[#28282b] text-white text-[1.2rem] font-semibold text-black px-5 py-2 rounded-md shadow-black shadow-md duration-200 hover:bg-[#28282b]/85 active:scale-95",
     primary:
       "bg-blue-600 text-[1.2rem] text-white font-semibold text-black px-5 py-2 rounded-md shadow-black shadow-md duration-200 hover:bg-blue-700 active:scale-95",
     destructive:
