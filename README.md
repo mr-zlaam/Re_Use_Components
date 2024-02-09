@@ -28,6 +28,6 @@ export default function App() {
 
 # Important Note:
 
-" If you have good understanding of NextJS or React Js you can contribute in this project by adding more features, fixing bugs or improving code quality."
+" If you have good understanding of NextJS or React Js along with typescript then  you can contribute in this project by adding more features, fixing bugs or improving code quality."
 
 ## My be In future we will be able to deliver these components as ui component library.
